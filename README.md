@@ -1,4 +1,4 @@
-# instant-messaging-app
+# Instant Messaging App
 `COMP3015 - Data Communications and Networking - Project - 2022-23`
 
 ## Scenario
